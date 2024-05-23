@@ -8,7 +8,7 @@ package dia03_forerodaniela_mulfordcatalina;
  *
  * @author camper
  */
-public class Dia03_ForeroDaniela_MulfordCatalina {
+public class Actividad_01 {
 
     /**
      * @param args the command line arguments
@@ -16,5 +16,5 @@ public class Dia03_ForeroDaniela_MulfordCatalina {
     public static void main(String[] args) {
         // TODO code application logic here
     }
-    
+    //
 }
