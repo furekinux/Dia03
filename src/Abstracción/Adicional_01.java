@@ -15,6 +15,11 @@ public class Adicional_01 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Animal myDog = new Dog("Lucas"); 
+        Animal myCat = new Cat("Michi"); 
+  
+        myDog.makeSound(); 
+        myCat.makeSound(); 
     }
     
 }
