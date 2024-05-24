@@ -16,6 +16,10 @@ public class Actividad_03 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.print("Dolor de cabeza 3\n");
+        Operar cuadradoArea = new Operar(12);
+        System.out.print(cuadradoArea+"\n");
+        Operar rectanguloArea = new Operar(12,23);
+        System.out.print(rectanguloArea+"\n");
     }
     
 }
