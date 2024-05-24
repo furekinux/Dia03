@@ -18,7 +18,7 @@ public class Actividad_03 {
         System.out.print("Dolor de cabeza 3\n");
         Operar cuadradoArea = new Operar(12);
         System.out.print(cuadradoArea+"\n");
-        Operar rectanguloArea = new Operar(12,23);
+        Operar rectanguloArea = new Operar(12,23.655555555555d);
         System.out.print(rectanguloArea+"\n");
     }
     
